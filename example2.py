@@ -1,4 +1,6 @@
 # full colour bitmap image
+# source: https://create.withcode.uk/python/ck
+
 import withcode
 
 # create a 3d list of RGB (Red, Green, Blue) data
