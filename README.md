@@ -6,6 +6,8 @@ It includes a `withcode` module that allows you to visualise lists of data as bl
 
 This repository contains an offline version of the `withcode` so that you can use the same tools in other projects or you can use examples and code from create.withcode.uk in classrooms or clubs without an Internet connection
 
+![Bitmap image](https://blog.withcode.uk/wp-content/uploads/2017/04/bitmap-300x127.png)
+
 Example 1: black and white bitmap images
 This python code contains a 2D list which can be displayed as a black and white image of a smiley face.
 https://create.withcode.uk/python/cj
