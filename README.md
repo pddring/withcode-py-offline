@@ -22,5 +22,6 @@ For more information about these resources click here: https://blog.withcode.uk/
 # Instructions
 
 Make sure that the `withcode.py` file is in the same folder as your python code which uses the withcode module, then just run it.
-*Tips*: For an easy to use offline Python IDE, I'd recommend Mu https://codewith.mu/ 
+
+**Tips**: For an easy to use offline Python IDE, I'd recommend Mu https://codewith.mu/ 
 Make sure you use version 1.02 or later as previous versions didn't allow you to import local modules correctly. 
